@@ -98,6 +98,10 @@ __pypackages__/
 celerybeat-schedule
 celerybeat.pid
 
+#Adding config.py file 
+
+api_keys.py
+
 # SageMath parsed files
 *.sage.py
 
